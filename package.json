@@ -1,0 +1,14 @@
+{
+  "name": "grocery-price-comparator",
+  "version": "1.0.0",
+  "description": "Compare grocery prices across stores",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.2.0",
+    "dotenv": "^16.0.0"
+  }
+}
